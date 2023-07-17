@@ -5,6 +5,9 @@ gestão de despesas. O usuário possuí as seguintes funcionalidades nesse siste
 cadastro e login, além do controle de suas despesas, como: cadastro de despesas, consulta,
 exclusão e alteração.
 
+## Ferramentas
+[NodeJs v16.20.0](https://nodejs.org/en/blog/release/v16.20.0)
+
 ## Iniciando Aplicação
 No terminal execute o comando:
 ```bash
@@ -23,4 +26,4 @@ Através do browser acesse o link
 
 ### Customização
 [Configuring quasar.conf.js](https://v1.quasar.dev/quasar-cli/quasar-conf-js).
-# testonfly-vue
+
